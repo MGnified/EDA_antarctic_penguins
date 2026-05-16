@@ -238,8 +238,8 @@ $RECYCLE.BIN/
 *.cst
 
 # Rendered Map Outputs
-*.html    # If you build interactive maps with Folium
-*.png     # If you export static maps from Matplotlib
+*.html    
+*.png    
 *.svg
 
 # Raw Data
