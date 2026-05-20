@@ -4,8 +4,16 @@ Hi, in this project I am going to train my geospatial skills on analyzing and ma
 
 To use it for yourself, the important libraries are in the .txt file, just use
 
+Using Bash
+
 ```shell 
 pip install requirements.txt
 ```
 
-Thank you for your patience and attendance.
+or using conda
+
+```shell
+conda install requirements.txt
+```
+
+Thank you for your attention and attendance.
