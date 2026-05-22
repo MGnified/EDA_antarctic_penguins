@@ -6,7 +6,7 @@ To use it for yourself, the important libraries are in the .txt file, just use
 
 Using Bash
 
-```shell 
+```shell
 pip install requirements.txt
 ```
 
