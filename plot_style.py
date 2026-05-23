@@ -43,7 +43,6 @@ def plt_plot_style():
 
 # setting up a style function for my seaborn plots
 def sns_plot_style(style="dark_background", palette="crest", size=(12, 7)):
-    
     """Sets up the style for every seaborn plot in the File."""
 
     # setting dark background
